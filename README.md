@@ -27,6 +27,6 @@
 </div> <br /> 
 <hr>
 
-Desenvolvedor Front-End, com meta de Full-Stack<br>
+Desenvolvedor Full-Stack<br>
 Estudante apaixonado por tecnologia<br>
 Em transição de carreira<br>
