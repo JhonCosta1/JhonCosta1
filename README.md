@@ -35,6 +35,6 @@ Career transition in progress<br>
 <hr>
 Desenvolvedor Full-Stack<br>
 Estudante apaixonado por tecnologia<br>
-Cursando Sistemas para Internet - Cruzeiro do Sul
-Cursando Letras Inglês(conversação e gramática) - Centro de Línguas Celest
+Cursando Sistemas para Internet - Cruzeiro do Sul<br>
+Cursando Letras Inglês(conversação e gramática) - Centro de Línguas Celest<br>
 Em transição de carreira<br>
