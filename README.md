@@ -1,4 +1,5 @@
 ## Olá! Eu sou o Jhon Costa ✌️
+## Hi! I´m Jhon Costa ✌️
 
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-costa
@@ -26,7 +27,14 @@
 
 </div> <br /> 
 <hr>
-
+Full-Stack Developer<br>
+Technology enthusiast student<br>
+Currently studying Internet Systems - Cruzeiro do Sul<br>
+Currently studying English Language and Grammar - Celest Language Center<br>
+Career transition in progress<br>
+<hr>
 Desenvolvedor Full-Stack<br>
 Estudante apaixonado por tecnologia<br>
+Cursando Sistemas para Internet - Cruzeiro do Sul
+Cursando Letras Inglês(conversação e gramática) - Centro de Línguas Celest
 Em transição de carreira<br>
